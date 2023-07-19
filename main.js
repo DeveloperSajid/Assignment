@@ -1,79 +1,120 @@
 // মডিউল ২ এর এসাইনমেন্ট
 
-A. ES6 function returns
---------------------------------
-Instructions:
-1. Create a JavaScript program that explores the usage of ES6 function returns.
-2. Implement the provided code snippets and answer the questions related to each snippet.
-3. Ensure that the program runs without errors and provides the correct output.
+// A. ES6 function returns
+// --------------------------------
+// Instructions:
+// 1. Create a JavaScript program that explores the usage of ES6 function returns.
+// 2. Implement the provided code snippets and answer the questions related to each snippet.
+// 3. Ensure that the program runs without errors and provides the correct output.
 
-Requirements:
-1.. Write your answers to the questions as comments in the code.
+// Requirements:
+// 1.. Write your answers to the questions as comments in the code.
 
-Snippet 1 :
 
-const add = (a, b) => {
-  return a + b;
-};
-const result1 = add(3, 4);
+
+
+
+// Snippet 1 :
+
+// const add = (a, b) => {
+//   return a + b;
+// };
+// const result1 = add(3, 4);
 
 // Question 1: What is the value of the result1?
+// Answer 1: The value of `result1` is 7.
 
- Snippet 2 :
 
-const greet = (name) => {
-  return {name};
-};
-const message = greet("Alice");
+
+
+
+
+
+//  Snippet 2 :
+
+// const greet = (name) => {
+//   return {name};
+// };
+// const message = greet("Alice");
 
 // Question 2: What is the value of the message?
+// Answer 2 : The value of message is an object with a property name that has a value of "Alice".
 
-Snippet 3 :
 
-const calculateArea = (radius) => {
-  const PI = 3.14159;
-  const area = PI * radius * radius;
-  return area;
-};
-const area = calculateArea(5);
+
+
+
+
+// Snippet 3 :
+
+// const calculateArea = (radius) => {
+//   const PI = 3.14159;
+//   const area = PI * radius * radius;
+//   return area;
+// };
+// const area = calculateArea(5);
 
 // Question 3: What is the value of area?
+// Answer 3: The value of `area` is 78.53975.
 
-Snippet 4 :
 
-const multiply = (a, b) => a * b;
-const result2 = multiply(2, 5);
+
+
+
+// Snippet 4 :
+
+// const multiply = (a, b) => a * b;
+// const result2 = multiply(2, 5);
 
 // Question 4: What is the value of the result2?
+// Answer 4: The value of result2 is 10. 
 
-Snippet 5 :
 
-const isEven = (num) => {
-  if (num % 2 === 0) {
-    return true;
-  } else {
-    return false;
-  }
-};
-const evenNumber = isEven(8);
+
+
+
+
+// Snippet 5 :
+
+// const isEven = (num) => {
+//   if (num % 2 === 0) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// };
+// const evenNumber = isEven(8);
 
 // Question 5: What is the value of evenNumber?
+// Answer 5 The value of evenNumber is true.
 
-Snippet 6 :
 
-const sayHello = () => {
-  return "Hello!";
-};
-const hello = sayHello();
+
+
+
+// Snippet 6 :
+
+// const sayHello = () => {
+//   return "Hello!";
+// };
+// const hello = sayHello();
 
 // Question 6: What is the value of hello?
+// Answer 6 The value of hello is the string "Hello!".
 
-Snippet 7 :
 
-const calculateSquare = (num) => num * num;
-const squaredNumber = calculateSquare(4);
+
+
+
+// Snippet 7 :
+
+// const calculateSquare = (num) => num * num;
+// const squaredNumber = calculateSquare(4);
 
 // Question 7: What is the value of squaredNumber?
+// Answer 7 The value of squaredNumber is 16.
+
+
 
 Snippet 8 :
 
