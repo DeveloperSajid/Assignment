@@ -174,6 +174,7 @@ Tasks:
 // Step 2: Call the calculateSquare function with different numbers
 // Step 3: Print the results to the console
 
+// answer is given anonymous_functions files
 
 // Submission Instruction :
 // *** Submit your all file as a pdf once you have completed the tasks. ***
