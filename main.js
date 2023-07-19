@@ -116,18 +116,21 @@
 
 
 
-Snippet 8 :
 
-const divide = (a, b) => {
-  if (b === 0) {
-    return "Error: Division by zero.";
-  }
-  return a / b;
-};
-const result3 = divide(10, 2);
-const result4 = divide(8, 0);
+// Snippet 8 :
+
+// const divide = (a, b) => {
+//   if (b === 0) {
+//     return "Error: Division by zero.";
+//   }
+//   return a / b;
+// };
+// const result3 = divide(10, 2);
+// const result4 = divide(8, 0);
 
 // Question 8: What are the values of result3 and result4?
+// Answer 8 It seems like you have repeated Snippet 7.
+
 
 B. Anonymous functions
 -----------------------------------
